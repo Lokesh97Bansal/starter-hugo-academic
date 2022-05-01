@@ -67,7 +67,7 @@ Equations of motion, Longitudinal and Lateral-directional modes.[Video Lectures]
 
 [[experience]]
   title = "Course Project"
-  company = "Formal analysis and Control, MTech, Robotics and Autonomous Systems, IISc, Bangalore"
+  company = "Motion Planning for Autonomous Systems, MTech, Robotics and Autonomous Systems, IISc, Bangalore"
   company_url = "https://cps.iisc.ac.in/mtech-ras-curriculum/"
   location = "Bangalore, India"
   date_start = "2022-01-01"
