@@ -1,6 +1,6 @@
 +++
-title = "Intelligent Algorithms for UAV Automatic Landing on-board a Moving Platform"
-date = 2021-12-12T00:00:00
+title = "Safe Learning for MADDPG with Control Barrier Certification for Long duration ground surveillance"
+date = 2022-30-04T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin"]
